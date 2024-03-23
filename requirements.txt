@@ -1,0 +1,9 @@
+matplotlib
+numpy
+Pillow
+Requests
+tensorflow
+transformers
+opencv-python-headless
+tf-keras
+python-csv
